@@ -11,3 +11,9 @@ vendor/
 # compiled binaries
 /cmd/pixterm/pixterm
 /cmd/pixterm/pixterm.exe
+
+# ProgramBench course-competition artifacts
+executable
+.programbench/venv/
+.programbench/tests/
+.programbench/run/
